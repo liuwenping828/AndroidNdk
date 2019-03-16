@@ -1,0 +1,1 @@
+include ':app', ':test', ':native_activity'
